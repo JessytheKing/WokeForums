@@ -26,3 +26,8 @@ without the fear of being critized because every user will be anonymous.
 **Requirements**
 
 https://drive.google.com/file/d/1qPJY0UjKwmuSEV2GIHsLSA5YeJ07obKB/view
+
+**ERD**
+https://drive.google.com/file/d/1Tt88YuAINOSG7zMYz9OfE47-k0KOst_1/view
+
+**Prototype Pages / Wire Frame**
