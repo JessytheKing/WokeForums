@@ -33,6 +33,17 @@ https://drive.google.com/file/d/1Tt88YuAINOSG7zMYz9OfE47-k0KOst_1/view
 
 **Prototype Pages / Wire Frame**
 
+Login
 ![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg)
+
+Feed
+![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093446_CodeX.jpg)
+
+News Article
+![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg)
+
+Comments
+![alt text(https://github.com/JessytheKing/Project/blob/master/foxnews-comments-dognapper.jpg)
+
 
 
