@@ -33,5 +33,5 @@ https://drive.google.com/file/d/1Tt88YuAINOSG7zMYz9OfE47-k0KOst_1/view
 
 **Prototype Pages / Wire Frame**
 
-https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg
+![Alt Text]https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg
 
