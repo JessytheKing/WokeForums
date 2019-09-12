@@ -24,6 +24,9 @@ without the fear of being critized because every user will be anonymous.
 * Users will be able to comment on anything 
 
 **Requirements**
+Doxying is huge on social media platform
+
+
 
 https://drive.google.com/file/d/1qPJY0UjKwmuSEV2GIHsLSA5YeJ07obKB/view
 
