@@ -2,10 +2,8 @@
 
 **Initial OutLook**
 
-FreeNews is a mobile app that will keep user informed on current events happening all across the world. What sets my application apart from every other new outlet ?
-Is freedom of speech. User will be able to comment on news articles and interact with other members, Users will be able to give their opinions and share their point 
-without the fear of being critized because every user will be anonymous. 
-
+WokeForums is a web app that lets user interact with the community. Users will be able to talk about a wide range of topics geared towards policate ideals without the fear of being "banned" or "excluded" from the community. True freedom of speech. 
+ 
 **BackLog**
 
 * Unit Test
@@ -23,30 +21,11 @@ without the fear of being critized because every user will be anonymous.
 * Support for mobile devices (Apple)
 * Users will be able to comment on anything 
 
-**Requirements**
-Doxying is huge on social media platform
 
 
 
-https://drive.google.com/file/d/1qPJY0UjKwmuSEV2GIHsLSA5YeJ07obKB/view
 
-**ERD**
 
-https://drive.google.com/file/d/1Tt88YuAINOSG7zMYz9OfE47-k0KOst_1/view
-
-**Prototype Pages / Wire Frame**
-
-Login
-![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg)
-
-Feed
-![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093446_CodeX.jpg)
-
-News Article
-![alt text](https://github.com/JessytheKing/Project/blob/master/Screenshot_20190912-093310_CodeX.jpg)
-
-Comments
-![alt text(https://github.com/JessytheKing/Project/blob/master/foxnews-comments-dognapper.jpg)
 
 
 
