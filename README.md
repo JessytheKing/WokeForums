@@ -18,8 +18,8 @@ WokeForums is a web app that lets user interact with the community. Users will b
 
 **Future Implementations**
 
-* Support for mobile devices (Apple)
-* Users will be able to comment on anything 
+* Rating System
+* Incognito Mode
 
 
 
